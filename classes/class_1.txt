@@ -1,0 +1,13 @@
+Class Staff
+
+Attributes
+employeeName (string) "Matt"
+jobTitle (string) "server"
+hourlyWage (float) 5.67
+barTendingTrained (boolean) false
+
+Methods
+addLastName: (adds last name to employeeName) employeeName "Matt McVey"
+changeJobs: (updates job title) jobTitle: "Bar tender"
+getRaise: (increases hourlyWage) hourlyWage: 10.47
+learnToBarTend: (toggles barTending Trained) barTendingTrained:true
