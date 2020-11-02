@@ -1,0 +1,13 @@
+Class Beverages
+
+Attibutes
+name: (string) "coke"
+size: (string) "Large"
+hasAlcohol: (boolean) false
+price: (float) 2.13
+
+Methods
+changeName: (updates name) name: "pepsi"
+changeSize: (updates size) size: "small"
+addShot: (toggles hasAlcohol) hasAlcohol: true
+useCoupon: (decrease price) price: 1.99
