@@ -1,0 +1,13 @@
+Instance Manager
+
+Attributes
+directReports: (array) ["employee1", "employee2"]
+workStartTime: (float) 10.30
+annualSalary: (integer) 47,000
+canMakeRules: (boolean) true
+
+Methods
+addDirectReports: directReports: ["employee1", "employee2", "employee3"]
+changeStartTime: workStartTime: 10.45
+getAnnualRaise: annualSalary: 50,000
+getDemoted: canMakeRules: false
