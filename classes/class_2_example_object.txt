@@ -1,0 +1,13 @@
+Instance Beer
+
+Attributes
+alcoholConent: (float) 3.4
+inBottle: (boolean) true
+varietyFlight: (array) ["beer1", "beer2"]
+onTap: (boolean) false
+
+Methods
+increaseAlcohol: (increases the alcoholConent) alcoholConent: 5.7
+pourIntoGlass: (toggles inBottle) inBottle: false
+addToFlight: (increases elements of varietyFlight array) varietyFlight: ["beer1", "beer2", "beer3"]
+addToTap: (toggles onTop) onTop: true
