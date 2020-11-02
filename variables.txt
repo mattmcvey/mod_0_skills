@@ -1,0 +1,9 @@
+var food = "pizza";
+var is_delicious = true;
+food = "pasta";
+var num2 = 37;
+var num7 = 48;
+var quotient = num7 / num2;
+var songs = ["song", "song2", "song3"]
+songs.shift();
+food.length;
